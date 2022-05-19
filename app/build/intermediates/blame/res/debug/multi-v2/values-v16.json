@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/res/values-v16/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/res/values-v16/styles.xml",
+                    "from": {
+                        "startLines": "2,6,13,20,27,34,41,48,55,62,69,76,83,90",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,269,652,1035,1432,1819,2221,2623,3013,3403,3793,4193,4585,4974",
+                        "endLines": "5,12,19,26,33,40,47,54,61,68,75,82,89,96",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "264,647,1030,1427,1814,2216,2618,3008,3398,3788,4188,4580,4969,5371"
+                    },
+                    "to": {
+                        "startLines": "3,7,14,21,28,35,42,49,56,63,70,77,84,91",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "121,335,718,1101,1498,1885,2287,2689,3079,3469,3859,4259,4651,5040",
+                        "endLines": "6,13,20,27,34,41,48,55,62,69,76,83,90,97",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "330,713,1096,1493,1880,2282,2684,3074,3464,3854,4254,4646,5035,5437"
+                    }
+                }
+            ]
+        }
+    ]
+}

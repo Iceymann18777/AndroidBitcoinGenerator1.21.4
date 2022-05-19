@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/res/values-watch-v20/styles.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,221,399",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "216,394,574"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "map": [
+                {
+                    "source": "/Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/res/values-v17/styles.xml",
+                    "from": {
+                        "startLines": "2,10,13,17,20,23,26,30,33,37,41,45,48,51,54,58,61,65",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,498,678,931,1096,1253,1432,1664,1841,2076,2307,2556,2734,2915,3091,3371,3578,3789",
+                        "endLines": "9,12,16,19,22,25,29,32,36,40,44,47,50,53,57,60,64,68",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "493,673,926,1091,1248,1427,1659,1836,2071,2302,2551,2729,2910,3086,3366,3573,3784,4120"
+                    }
+                }
+            ]
+        }
+    ]
+}

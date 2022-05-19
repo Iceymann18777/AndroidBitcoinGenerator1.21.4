@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:4:127-178
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:4:89-126
+	android:versionName
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:4:29-57
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:3:5-51
+	android:compileSdkVersion
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:4:58-88
+	xmlns:android
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:5-18:19
+	android:supportsRtl
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:145-171
+	android:label
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:50-82
+	android:appComponentFactory
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:218-286
+	android:roundIcon
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:172-217
+	tools:targetApi
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:9:9-28
+	android:icon
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:83-117
+	android:allowBackup
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:118-144
+	android:theme
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:8:18-49
+activity#p065me.createbitcoins.androidbitcoingenerator.MainActivity
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:10:9-17:20
+	android:screenOrientation
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:10:137-173
+	android:exported
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:12:13-36
+	tools:ignore
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:11:13-53
+	android:configChanges
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:10:174-209
+	android:theme
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:10:19-62
+	android:name
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:10:63-136
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adamkhader/Desktop/AndroidBitcoinGenerator/app/src/main/AndroidManifest.xml
