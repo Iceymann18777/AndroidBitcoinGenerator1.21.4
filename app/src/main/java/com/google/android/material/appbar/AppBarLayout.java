@@ -244,6 +244,26 @@ public class AppBarLayout extends android.widget.LinearLayout {
                 return
         }
 
+        @Override
+        boolean mo342a(T r1) {
+            return false;
+        }
+
+        @Override
+        int mo339b(T r1) {
+            return 0;
+        }
+
+        @Override
+        int mo338b(CoordinatorLayout r1, T r2, int r3, int r4, int r5) {
+            return 0;
+        }
+
+        /* renamed from: a */
+        static /* synthetic */ int m361a() {
+            return m361a();
+        }
+
         /* renamed from: a */
         static /* synthetic */ int m361a(com.google.android.material.appbar.AppBarLayout.BaseBehavior r0) {
                 int r0 = r0.f3368k
@@ -1120,6 +1140,11 @@ public class AppBarLayout extends android.widget.LinearLayout {
                 int r1 = r2.f3368k
                 int r0 = r0 + r1
                 return r0
+        }
+
+        @Override
+        int mo336c(T r1) {
+            return 0;
         }
 
         @Override

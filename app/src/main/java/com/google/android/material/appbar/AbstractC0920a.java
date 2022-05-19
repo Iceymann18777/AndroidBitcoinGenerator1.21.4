@@ -2,6 +2,8 @@ package com.google.android.material.appbar;
 
 import static java.lang.Double.NaN;
 
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
+
 abstract class AbstractC0920a<V extends android.view.View> extends com.google.android.material.appbar.C0923c<V> {
 
 
@@ -24,8 +26,9 @@ abstract class AbstractC0920a<V extends android.view.View> extends com.google.an
 
     /* renamed from: j */
     private android.view.VelocityTracker f3390j;
+        private AbstractC0920a<V> r1;
 
-    /* JADX WARN: Incorrect field signature: TV; */
+        /* JADX WARN: Incorrect field signature: TV; */
     /* renamed from: com.google.android.material.appbar.a$a */
     /* loaded from: classes.dex */
     private class RunnableC0921a implements java.lang.Runnable {
@@ -51,33 +54,33 @@ abstract class AbstractC0920a<V extends android.view.View> extends com.google.an
         @Override // java.lang.Runnable
         public void run() {
                 r4 = this;
-                android.view.View r0 = r4.f3392c
-                if (r0 == 0) goto L_0x002e
-                com.google.android.material.appbar.a r0 = r4.f3393d
-                android.widget.OverScroller r0 = r0.f3385e
-                if (r0 == 0) goto L_0x002e
-                boolean r0 = r0.computeScrollOffset()
-                if (r0 == 0) goto L_0x0025
-                com.google.android.material.appbar.a r0 = r4.f3393d
-                androidx.coordinatorlayout.widget.CoordinatorLayout r1 = r4.f3391b
-                android.view.View r2 = r4.f3392c
-                android.widget.OverScroller r3 = r0.f3385e
-                int r3 = r3.getCurrY()
-                r0.m335c(r1, r2, r3)
-                android.view.View r0 = r4.f3392c
-                p000a.p018g.p029l.C0216r.m3432a(r0, r4)
-                goto L_0x002e
+                android.view.View r0 = r4.f3392c;
+                if (r0 == 0) goto L_0x002e;
+                com.google.android.material.appbar.a r0 = r4.f3393d;
+                android.widget.OverScroller r0 = r0.f3385e;
+                if (r0 == 0) goto L_0x002el;
+                boolean r0 = r0.computeScrollOffset();
+                if (r0 == 0) goto L_0x0025;
+                com.google.android.material.appbar.a r0 = r4.f3393d;
+                androidx.coordinatorlayout.widget.CoordinatorLayout r1 = r4.f3391b;
+                android.view.View r2 = r4.f3392c;
+                android.widget.OverScroller r3 = r0.f3385e;
+                int r3 = r3.getCurrY();
+                r0.m335c(r1, r2, r3);
+                android.view.View r0 = r4.f3392c;
+                p000a.p018g.p029l.C0216r.m3432a(r0, r4);
+                goto L_0x002e;
             L_0x0025:
-                com.google.android.material.appbar.a r0 = r4.f3393d
-                androidx.coordinatorlayout.widget.CoordinatorLayout r1 = r4.f3391b
-                android.view.View r2 = r4.f3392c
-                r0.mo333e(r1, r2)
+                com.google.android.material.appbar.a r0 = r4.f3393d;
+                androidx.coordinatorlayout.widget.CoordinatorLayout r1 = r4.f3391b;
+                android.view.View r2 = r4.f3392c;
+                r0.mo333e(r1, r2);
             L_0x002e:
-                return
+                return;
         }
     }
 
-    public AbstractC0920a() {
+    public <init> AbstractC0920a() {
             r1 = this;
             r1.<init>()
             r0 = -1
